@@ -1,6 +1,6 @@
 ## Olá! Eu sou o João Ygo
 
-- 🔭 Estou disponivel para trabalhar com Front-end e Mobile.
+- 🔭 Estou disponível para trabalhar com Front-end e Mobile.
 
 <div>
     <a href="https://github.com/joaoygo">
